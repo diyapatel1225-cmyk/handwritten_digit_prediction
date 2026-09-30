@@ -1,5 +1,3 @@
-# handwritten_digit_prediction
-Handwritten digit recognition using a CNN built with TensorFlow/Keras, trained on the MNIST dataset with 98.88% test accuracy.
 # Handwritten Digit Recognition using CNN
 
 A Convolutional Neural Network (CNN) that recognizes handwritten digits (0-9), built with TensorFlow/Keras and trained on the MNIST dataset.
